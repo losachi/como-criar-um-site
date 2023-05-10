@@ -1,5 +1,4 @@
-.cabeçalho
-header{
+.cabeçalho{
     background-color: #FF9E9E;
     padding: 0px;
     margin: 0px;
@@ -8,3 +7,4 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
