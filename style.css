@@ -5,15 +5,11 @@ body{
     font-family: 'Bree Serif', serif;
     }
     
-    .cabeçalho{
-    margin: 0px;
-    padding: 0px;
-    background-color: #FF9E9E;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    color: #FF0101;
-    }
+    { background-color: #FF9E9E;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: #FF0101; } 
     
     .titulo-corpo{
     display: flex;
